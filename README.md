@@ -122,7 +122,6 @@ This prevents multiple simultaneous executions. If the script crashes or is forc
 
 - Windows
 - PowerShell
-- Git (for version control)
 - AMP Instance Manager
 
 ---
@@ -150,7 +149,7 @@ Planned enhancements:
 
 ## License
 
-MIT (recommended)
+MIT
 
 ---
 
